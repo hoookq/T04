@@ -1,0 +1,26 @@
+
+#pokemons {
+    text-align: center;
+}
+
+.pokemon {
+    display: inline-block; 
+    width: 170px; 
+    height: 300px; 
+    margin: 10px; 
+    border: 2px solid black; 
+    border-radius: 10px; 
+    padding: 10px; 
+}
+
+.pokemon img {
+    width: 170px; 
+    height: 170px; 
+    display: block; 
+    margin: 0 auto 10px; 
+}
+
+.pid, .name, .type {
+    text-align: center; 
+    margin: 1; 
+}
